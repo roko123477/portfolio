@@ -56,6 +56,21 @@ const Qualification = () => {
                                 </div>
                             </div>
                         </div>
+                        <div class="qualification__data">
+                            <div>
+                                <h3 class="qualification__title">Class 10th</h3>
+                                <h5 class="qualification__subtitle">ST PAUL'S ACADEMY</h5>
+                                <div class="qualification__calendar">
+                                    <i class="uil uil-calendar-alt"></i>
+                                    2008 - 2018
+                                </div>
+                            </div>
+
+                            <div>
+                                <span class="qualification__rounder"></span>
+                                <span class="qualification__line"></span>
+                            </div>
+                        </div>
 
 
 
