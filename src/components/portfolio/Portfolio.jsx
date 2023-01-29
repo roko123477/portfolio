@@ -3,8 +3,8 @@ import './portfolio.css'
 import IMG1 from '../../assets/imerxn.png'
 import IMG2 from '../../assets/yelp.png'
 import IMG3 from '../../assets/notes.png'
-// import IMG4 from '../../assets/portfolio4.jpg'
-// import IMG5 from '../../assets/portfolio5.png'
+ import IMG4 from '../../assets/todo1.png'
+ import IMG5 from '../../assets/calc.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
 const Portfolio = () => {
   return (
@@ -46,6 +46,29 @@ const Portfolio = () => {
             </div> 
         </article>
 
+
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <img src={IMG4} alt="image1" />
+          </div>
+            <h3>Todo App</h3>
+            <div className="portfolio_item-cta">
+              <a href="https://github.com/roko123477/todo_list.github.io" className='btn'>Github</a>
+              <a href="https://roko123477.github.io/todo_list.github.io/" className='btn btn-primary'>Live Demo</a>
+            </div> 
+        </article>
+
+
+        <article className="portfolio_item">
+          <div className="portfolio_item-image">
+            <img src={IMG5} alt="image1" />
+          </div>
+            <h3>Calculator App</h3>
+            <div className="portfolio_item-cta">
+              <a href="https://github.com/roko123477/calculator_app.github.io" className='btn'>Github</a>
+              <a href="https://roko123477.github.io/calculator_app.github.io/" className='btn btn-primary'>Live Demo</a>
+            </div> 
+        </article>
         
       </div>
     </section>
