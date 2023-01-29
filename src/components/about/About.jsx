@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p>I'm a Pre-final year undergraduate student pursuing B.Tech in CSE from<b> KALYANI GOVERNMENT ENGINNERING COLLEGE(KGEC).</b> I'm a passionate Software Engineer with a knack of learning something new everyday.</p>
-          <p>Always Eager to expand my skill-set and learn as I move forward. I enjoy reading aricles and solving calculus problems during my free time.</p>
+          <p>Always Eager to expand my skill-set and learn as I move forward. I enjoy reading articles and solving calculus problems during my free time.</p>
           <a href='#contact' className='btn btn_primary'>Let's Talk</a>
         </div>
       </div>
