@@ -36,7 +36,8 @@ const About = () => {
               <small>5+ completed Projects</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque omnis, nihil magnam accusamus id suscipit eius qui earum nobis fugiat aliquam laudantium, ullam cupiditate, debitis culpa quasi saepe quas atque.</p>
+          <p>I'm a Pre-final year undergraduate student pursuing B.Tech in CSE from<b> KALYANI GOVERNMENT ENGINNERING COLLEGE(KGEC).</b> I'm a passionate Software Engineer with a knack of learning something new everyday.</p>
+          <p>Always Eager to expand my skill-set and learn as I move forward. I enjoy reading aricles and solving calculus problems during my free time.</p>
           <a href='#contact' className='btn btn_primary'>Let's Talk</a>
         </div>
       </div>
